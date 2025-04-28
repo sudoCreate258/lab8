@@ -10,9 +10,9 @@ lab10_A
 lab10_B
   lab10_4.cpp, lab10_5.cpp
 
-lab13_A
-  lab13_1.cpp, lab13_2.cpp, lab13_3.cpp
+lab12_A
+  lab12_1.cpp, lab12_2.cpp, lab12_3.cpp
 
-lab13_B
-  lab13_4.cpp, lab13_5.cpp
+lab12_B
+  lab12_4.cpp, lab12_5.cpp
 ```
